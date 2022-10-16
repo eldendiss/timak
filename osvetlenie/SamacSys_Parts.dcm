@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP TJA1040T_CM,118
+D CAN Interface IC High-speed CAN transceiver with standby mode
+K
+F http://www.nxp.com/docs/en/data-sheet/TJA1040.pdf
+$ENDCMP
+#
+$CMP RZ03-1C4-D005
+D SPDT Through Hole Non-Latching Relay Solder, 16 A, 5V dc
+K
+F http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=RZ&DocType=DS&DocLang=English
+$ENDCMP
+#
+$CMP LDD-700H
+D LED Power Supplies 9-56Vin 2-52Vout 700mA LED Driver
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/DKDS-14/277847.pdf
+$ENDCMP
+#
+#End Doc Library
