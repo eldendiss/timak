@@ -1,4 +1,4 @@
-20525426408045708
+20517096323976640
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -79168,41 +79168,6 @@ Alps rotary encoder, EC12E..., vertical shaft, mounting holes with circular dril
 rotary encoder
 0
 5
-4
-SamacSys_Parts
-LDD-700H
-LDD-700H
-Relay or Contactor
-0
-9
-9
-SamacSys_Parts
-NE555DR
-D (R-PDSO-G8)
-Integrated Circuit
-0
-8
-8
-SamacSys_Parts
-RZ03_1-FORM-C_
-RZ03(1-Form-C)
-Relay or Contactor
-0
-8
-8
-SamacSys_Parts
-SOIC127P600X175-8N
-SO8
-Integrated Circuit
-0
-8
-8
-SamacSys_Parts
-SOT230P696X180-4N
-SOT230P696X180-4N
-Integrated Circuit
-0
-4
 4
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm

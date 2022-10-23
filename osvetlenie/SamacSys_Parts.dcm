@@ -24,4 +24,10 @@ K
 F https://datasheet.datasheetarchive.com/originals/distributors/DKDS-14/277847.pdf
 $ENDCMP
 #
+$CMP LM1117IMP-3.3
+D IC REG LDO 800MA 3.3V
+K
+F 
+$ENDCMP
+#
 #End Doc Library

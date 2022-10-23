@@ -103,17 +103,17 @@
         "allow_blind_buried_vias": false,
         "allow_microvias": false,
         "max_error": 0.005,
-        "min_clearance": 0.127,
+        "min_clearance": 0.0,
         "min_copper_edge_clearance": 0.0,
-        "min_hole_clearance": 0.5,
-        "min_hole_to_hole": 0.5,
+        "min_hole_clearance": 0.25,
+        "min_hole_to_hole": 0.25,
         "min_microvia_diameter": 0.19999999999999998,
         "min_microvia_drill": 0.09999999999999999,
         "min_silk_clearance": 0.0,
-        "min_through_hole_diameter": 0.19999999999999998,
-        "min_track_width": 0.127,
-        "min_via_annular_width": 0.09999999999999999,
-        "min_via_diameter": 0.3,
+        "min_through_hole_diameter": 0.3,
+        "min_track_width": 0.19999999999999998,
+        "min_via_annular_width": 0.049999999999999996,
+        "min_via_diameter": 0.39999999999999997,
         "solder_mask_clearance": 0.0,
         "solder_mask_min_width": 0.0,
         "use_height_for_length_calcs": true
@@ -121,36 +121,13 @@
       "track_widths": [
         0.0,
         0.25,
-        0.3,
-        0.35,
-        0.5,
         0.76,
-        1.0,
-        1.27,
-        2.03,
-        2.79,
-        3.81,
-        4.57,
-        5.59,
-        6.6,
-        7.62
+        1.27
       ],
       "via_dimensions": [
         {
           "diameter": 0.0,
           "drill": 0.0
-        },
-        {
-          "diameter": 0.4,
-          "drill": 0.2
-        },
-        {
-          "diameter": 1.0,
-          "drill": 0.5
-        },
-        {
-          "diameter": 2.0,
-          "drill": 1.0
         }
       ],
       "zones_allow_external_fillets": false,
@@ -372,7 +349,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "osvetlenie.kicad_pro",
+    "filename": "regulator layout.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -404,7 +381,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "osvetlenie.net",
+      "netlist": "",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
@@ -451,7 +428,7 @@
   },
   "sheets": [
     [
-      "dd531c97-5ae7-4f60-a253-27e5ab845b06",
+      "a1fcbd08-11b6-488c-917f-e79dd71d57bd",
       ""
     ]
   ],
