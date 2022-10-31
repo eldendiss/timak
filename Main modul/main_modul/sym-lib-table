@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Cube")(type "KiCad")(uri "C:/Users/Kovács Krisztián/Desktop/Main modul/lib/SDG.kicad_sym")(options "")(descr ""))
+  (lib (name "Sama")(type "Legacy")(uri "C:/Users/Kovács Krisztián/Desktop/Main modul/SamacSys_Parts.lib")(options "")(descr ""))
+)

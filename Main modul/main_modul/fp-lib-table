@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "SDG")(type "KiCad")(uri "C:/Users/Kovács Krisztián/Desktop/Main modul/lib/SDG.pretty")(options "")(descr ""))
+  (lib (name "SamacSys_Parts")(type "KiCad")(uri "C:/Users/Kovács Krisztián/Desktop/Main modul/SamacSys_Parts.pretty")(options "")(descr ""))
+)
